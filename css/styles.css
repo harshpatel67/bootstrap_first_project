@@ -52,3 +52,9 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.bodycolor {
+  background-color: #D1C4E9; }
+
+.headercolor {
+  color: #ddd; }
